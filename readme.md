@@ -2,6 +2,11 @@
 
 A simple JavaScript utility for demonstrating dynamic popup interactions on web pages. This utility allows users to click on popup elements to display messages and use a close button to hide them. It's an excellent example of basic DOM manipulation and event handling in JavaScript.
 
+![image](https://github.com/Yatten86/Popup-Message/assets/90719281/a1b69b34-490b-490c-b8bc-017c71cdda14)  ![image](https://github.com/Yatten86/Popup-Message/assets/90719281/c319cb09-69eb-4be5-ab4a-d7b5d4793e03)
+
+
+
+
 ## Features
 
 - Dynamically displays messages based on data attributes of popup elements.
